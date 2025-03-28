@@ -20,7 +20,7 @@ This project aims to replicate the layout,design and functionality of Amazon's h
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/amazon-clone.git](https://www.google.com/search?q=https://github.com/your-username/amazon-clone.git)
+    git clone [https://github.com/AmulyaSindhu28/amazon-clone.git](https://www.google.com/search?q=https://github.com/AmulyaSindhu28/amazon-clone.git)
     ```
 
 2.  **Navigate to the project directory:**

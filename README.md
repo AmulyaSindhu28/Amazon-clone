@@ -33,14 +33,14 @@ This project aims to replicate the layout,design and functionality of Amazon's h
 
 ## Project Structure
 
-''' amazon-clone/
-    ├── index.html
-    ├── styles.css
-    ├── images/
-    │   ├── (product images)
-    │   ├── (banner images)
-    │   └── (amazon logo)
-    └── README.md '''
+amazon-clone/
+├── index.html
+├── styles.css
+├── images/
+│   ├── (product images)
+│   ├── (banner images)
+│   └── (amazon logo)
+    └── README.md 
 
 
 * `index.html`: The main HTML file containing the structure of the webpage.

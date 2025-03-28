@@ -35,7 +35,7 @@ This project aims to replicate the layout,design and functionality of Amazon's h
 
 amazon-clone/
 ├── index.html
-├── styles.css
+├── style.css
 ├── images/
 │   ├── (product images)
 │   ├── (banner images)
@@ -44,15 +44,15 @@ amazon-clone/
 
 
 * `index.html`: The main HTML file containing the structure of the webpage.
-* `styles.css`: The CSS file containing the styling rules.
+* `style.css`: The CSS file containing the styling rules.
 * `images/`: A directory containing all the images used in the website.
 
 ## Customization
 
 * **Images:** Replace the placeholder images in the `images/` directory with your own.
 * **Content:** Modify the text and product descriptions in `index.html` to match your desired content.
-* **Styling:** Customize the styles in `styles.css` to change the appearance of the website.
-* **Responsiveness:** Improve the responsive design by adding media queries in `styles.css` for better adaptation to different screen sizes.
+* **Styling:** Customize the styles in `style.css` to change the appearance of the website.
+* **Responsiveness:** Improve the responsive design by adding media queries in `style.css` for better adaptation to different screen sizes.
 
 ## Limitations
 
